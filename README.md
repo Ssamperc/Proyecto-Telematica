@@ -259,4 +259,4 @@ curl -X POST http://localhost:8080/api/data \
 
 ---
 
-*Versión: 1.0 | Fecha: Marzo 2026*
+*Versión: 1.0 | Fecha: Marzo 2026* | Juan Pablo Duque, Hellen Yanes, Samuel Samper
